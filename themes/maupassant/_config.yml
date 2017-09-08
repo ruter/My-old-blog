@@ -1,0 +1,29 @@
+fancybox: true ## If you want to use fancybox please set the value to true
+duoshuo: ##ruter
+disqus: ruter-tnk ## Your disqus_shortname, e.g. haomwei
+google_search: true ## Use Google search, true/false
+baidu_search: ## Use Baidu search, true/false
+swiftype: ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
+tinysou: ## Your tinysou_key, e.g. 4ac092ad8d749fdc6293
+menu:
+  - page: home
+    directory: /
+    icon: icon-home
+  - page: archive
+    directory: archives/
+    icon: icon-archive
+  - page: about
+    directory: about/
+    icon: icon-about
+  - page: Wiki
+    directory: MyWiki/
+    icon: icon-guestbook
+links:
+  - title: "SunnyRx's Blog"
+    url: http://www.sunnyrx.com/
+  - title: "Zero's Blog"
+    url: http://talesofwing.github.io/
+  - title: "Gzp's Blog"
+    url: http://elfgzp.cn
+  - title: "妖孽的简书"
+    url: http://www.jianshu.com/users/148cab15306f/latest_articles
