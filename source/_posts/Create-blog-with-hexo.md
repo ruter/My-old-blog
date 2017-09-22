@@ -202,3 +202,12 @@ Hexo官方网站上展示了25套主题，可以按自己的口味挑选，或�
 
 由于篇幅限制，关于部署我会单独写一篇博客详细地说说如何利用`Github Pages`部署我们的博客(拖延症什么的才不是呢！)，蟹蟹阅读XD
 
+---
+
+![知识共享许可协议](https://i.creativecommons.org/l/by-nc-nd/3.0/cn/88x31.png)
+
+**声明：**本站的所有文章，都采用[知识共享署名-非商业性使用-禁止演绎 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)进行许可。
+
+**注意：**若未作说明，则本文为「[**TNK**](http://blog.ruterly.com/)」原创。转载务必注明[出处](http://blog.ruterly.com/2015/12/13/Create-blog-with-hexo/)。
+
+本文永久地址：http://blog.ruterly.com/2015/12/13/Create-blog-with-hexo/

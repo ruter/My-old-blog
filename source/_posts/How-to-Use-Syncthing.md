@@ -138,3 +138,13 @@ Syncthing有一些高级的功能前面没有提及，例如每个共享的文�
 - [官方文档](https://docs.syncthing.net/index.html)
 - [开机自启动](https://docs.syncthing.net/users/autostart.html)
 - [命令行操作](https://docs.syncthing.net/users/syncthing.html)
+
+---
+
+![知识共享许可协议](https://i.creativecommons.org/l/by-nc-nd/3.0/cn/88x31.png)
+
+**声明：**本站的所有文章，都采用[知识共享署名-非商业性使用-禁止演绎 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)进行许可。
+
+**注意：**若未作说明，则本文为「[**TNK**](http://blog.ruterly.com/)」原创。转载务必注明[出处](http://blog.ruterly.com/2016/09/06/How-to-Use-Syncthing/)。
+
+本文永久地址：http://blog.ruterly.com/2016/09/06/How-to-Use-Syncthing/

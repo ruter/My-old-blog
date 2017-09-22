@@ -120,3 +120,13 @@ FINAL,DIRECT
 - [ShadowSocks的翻墙原理](https://tumutanzi.com/archives/13005)
 - [Surge -定制自己的规则配置](https://medium.com/@scomper/surge-%E5%AE%9A%E5%88%B6%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A7%84%E5%88%99%E9%85%8D%E7%BD%AE-34a6d74b0434#.rf4vk0tfg)
 - [iOS Surge/Shadowrocket配置文件](http://www.abclite.cn/1995.html)
+
+---
+
+![知识共享许可协议](https://i.creativecommons.org/l/by-nc-nd/3.0/cn/88x31.png)
+
+**声明：**本站的所有文章，都采用[知识共享署名-非商业性使用-禁止演绎 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)进行许可。
+
+**注意：**若未作说明，则本文为「[**TNK**](http://blog.ruterly.com/)」原创。转载务必注明[出处](http://blog.ruterly.com/2016/10/07/How-to-use-Shadowrocket/)。
+
+本文永久地址：http://blog.ruterly.com/2016/10/07/How-to-use-Shadowrocket/

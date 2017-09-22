@@ -165,3 +165,13 @@ uwsgi --ini /var/www/blog/blog.ini
 [Another nginx.conf Full Example](https://www.nginx.com/resources/wiki/start/topics/examples/fullexample2/)
 [Setting up Django and your web server with uWSGI and nginx](http://uwsgi-docs.readthedocs.org/en/latest/tutorials/Django_and_nginx.html#configure-nginx-for-your-site)
 [How To Serve Django Applications with uWSGI and Nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04)
+
+---
+
+![知识共享许可协议](https://i.creativecommons.org/l/by-nc-nd/3.0/cn/88x31.png)
+
+**声明：**本站的所有文章，都采用[知识共享署名-非商业性使用-禁止演绎 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)进行许可。
+
+**注意：**若未作说明，则本文为「[**TNK**](http://blog.ruterly.com/)」原创。转载务必注明[出处](http://blog.ruterly.com/2015/12/05/Configurate-nginx-and-uwsgi/)。
+
+本文永久地址：http://blog.ruterly.com/2015/12/05/Configurate-nginx-and-uwsgi/

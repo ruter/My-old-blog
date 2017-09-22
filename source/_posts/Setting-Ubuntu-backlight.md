@@ -82,3 +82,13 @@ Input a value:
 - [手动输入数值的脚本](/Scripts/backlight2.sh)
 
 感觉每次都要手动调用还是好麻烦呀~能不能有什么开机自启动的方法啊？回答是肯定的！不过，把脚本加入开机启动项好像不是很难嘛~既然如此为什么不自己动手试试？如果不会，记得善用搜索引擎XD
+
+---
+
+![知识共享许可协议](https://i.creativecommons.org/l/by-nc-nd/3.0/cn/88x31.png)
+
+**声明：**本站的所有文章，都采用[知识共享署名-非商业性使用-禁止演绎 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)进行许可。
+
+**注意：**若未作说明，则本文为「[**TNK**](http://blog.ruterly.com/)」原创。转载务必注明[出处](http://blog.ruterly.com/2016/01/24/Setting-Ubuntu-backlight/)。
+
+本文永久地址：http://blog.ruterly.com/2016/01/24/Setting-Ubuntu-backlight/

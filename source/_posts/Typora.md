@@ -141,3 +141,13 @@ Markdown这么好的东西你还不赶紧用起来？那什么word啊、pages啊
 好马配好鞍，一个称手编辑器可以让你更好地进行写作，Typora用起来～
 
 PS: 本文旨在安利Typora，不会对市面上众多的markdown编辑器进行对比和评测，只要好用而且对口味就好了，不是吗？
+
+---
+
+![知识共享许可协议](https://i.creativecommons.org/l/by-nc-nd/3.0/cn/88x31.png)
+
+**声明：**本站的所有文章，都采用[知识共享署名-非商业性使用-禁止演绎 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)进行许可。
+
+**注意：**若未作说明，则本文为「[**TNK**](http://blog.ruterly.com/)」原创。转载务必注明[出处](http://blog.ruterly.com/2017/01/10/Typora/)。
+
+本文永久地址：http://blog.ruterly.com/2017/01/10/Typora/
