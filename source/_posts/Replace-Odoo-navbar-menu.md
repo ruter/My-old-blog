@@ -114,3 +114,13 @@ date: 2017-09-20 17:08:41
 # 最后
 
 简而言之，要对所显示的菜单做各种骚操作，只需要在找出你想要渲染的菜单记录之后，在调用模板 `website.submenu` 进行渲染之前，完成你想要做的各种操作即可。
+
+---
+
+![知识共享许可协议](https://i.creativecommons.org/l/by-nc-nd/3.0/cn/88x31.png)
+
+**声明：**本站的所有文章，都采用[知识共享署名-非商业性使用-禁止演绎 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)进行许可。
+
+**注意：**若未作说明，则本文为「[**TNK**](http://blog.ruterly.com/)」原创。转载务必注明[出处](http://blog.ruterly.com/2017/09/20/Replace-Odoo-navbar-menu/)。 
+
+本文永久地址：http://blog.ruterly.com/2017/09/20/Replace-Odoo-navbar-menu/
