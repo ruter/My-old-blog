@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.ruterly.com/2017/09/28/Catching-unique-constraint-violation-error-in-Odoo-controllers/</loc>
+    
+    <lastmod>2017-09-28T06:50:35.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.ruterly.com/2017/01/10/Typora/</loc>
     
     <lastmod>2017-09-22T06:54:50.000Z</lastmod>
