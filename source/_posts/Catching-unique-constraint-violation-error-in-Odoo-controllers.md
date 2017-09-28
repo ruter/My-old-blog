@@ -50,7 +50,9 @@ class MyUsernameController(http.Controller):
         http.request.env['my.username'].create({
             'username': username
         })
-        return http.request.render('my.ok')
+        return http.request.render('my.ok', {
+            'username': username
+        })
       except IntegrityError:
         # IntegrityError handler
         http.request._cr.rollback()
@@ -82,7 +84,7 @@ class MyUsernameController(http.Controller):
 
 到这里就已经 OK 了，安装之后打开 `http://localhost:8069/myusername/create` 可以看到一个输入框，输入一个名字然后提交，会显示 `hello, <username>` ，其中 `<username>` 是你输入的名字，然后再重新打开同一个链接，再次输入相同的名字提交，这次会发现抛出了错误提示 `IntegrityError!` 。
 
-我们在示例里捕获错误之后，简单地进行了回滚 `rollback()` 操作，而你在捕获错误之后应该根据需求进行相应的处理。这里要注意的是不能使用 `http.request.env.cr` 进行操作，因为 `env` 会对数据库进行查询操作，而在抛出错误后这一事务还没结束，是不能对数据库进行操作的。
+我们在示例里捕获错误之后，简单地进行了回滚 `rollback()` 操作，而你在捕获错误之后应该根据需求进行相应的处理。这里要注意的是不能使用 `http.request.env.cr` ( 或者其他任何可能涉及数据库操作的方法和属性 ) 进行操作，因为 `env` ( 这些操作 ) 会对数据库进行查询操作，而在抛出错误后这一事务还没结束，是不能对数据库进行操作的。
 
 ---
 
