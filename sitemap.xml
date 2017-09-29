@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.ruterly.com/about/index.html</loc>
+    
+    <lastmod>2017-09-29T02:43:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.ruterly.com/2017/09/28/Catching-unique-constraint-violation-error-in-Odoo-controllers/</loc>
     
     <lastmod>2017-09-28T12:13:43.000Z</lastmod>
@@ -96,13 +103,6 @@
     <loc>http://blog.ruterly.com/2017/09/20/Replace-Odoo-navbar-menu/</loc>
     
     <lastmod>2017-09-22T06:19:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.ruterly.com/about/index.html</loc>
-    
-    <lastmod>2017-09-08T07:02:42.000Z</lastmod>
     
   </url>
   
