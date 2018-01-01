@@ -50,7 +50,7 @@ date: 2018-01-01 15:39:04
 
 虽然一直想为开源社区做点贡献，但是一直都没有付诸行动，这一年赶在年末，为社区做了一点小贡献，为 Odoo 这个大项目提了一个 PR 并且被合并到了 10.0 版本分支中，以及为另一个项目提了若干的 issue，虽然没有作出特别大的贡献，但是总算为社区做了一点点事情了。
 
-![Github contributions in last year](/images/Summary/github-contr.png)
+![Github contributions in the last year](/images/Summary/github-contr.png)
 
 ---
 
